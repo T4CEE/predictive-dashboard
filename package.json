@@ -1,6 +1,5 @@
 {
-  "name": "TCEE Project - Predictor Dashboard",
-  "description": "This is a project for Predicting sales, user growth, revenue prediction and user engagement",
+  "name": "tcee-prediction-project",
   "version": "0.1.0",
   "private": true,
   "scripts": {
